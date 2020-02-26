@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: build_firmware_x86_64
+name: build_firmware_k2p
 
 on:
 #   release:
