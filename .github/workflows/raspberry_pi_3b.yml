@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt raspberry_pi_3b
+name: build_firmware_raspberry_pi_3b
 
 on:
 #   release:
