@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: build_firmware_k2p
+name: firmware_k2p
 
 on:
 #   release:
@@ -18,8 +18,8 @@ on:
 #       - 'k2p.config'
 #  schedule:
 #    - cron: 0 8 * * 5
- watch:
-   types: started
+#  watch:
+#    types: started
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
